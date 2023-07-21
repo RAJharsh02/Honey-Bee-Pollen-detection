@@ -22,10 +22,8 @@ Approach for this Project:The project aimed to predict wether a honey bee image 
 
 ![carbon (8)](https://github.com/RAJharsh02/Honey-Bee-Pollen-detection/assets/118257196/f4124b09-c988-4fb1-bf5a-1ce816d562b6)
 
-![IMG_20230721_230859](https://github.com/RAJharsh02/Honey-Bee-Pollen-detection/assets/118257196/f3848493-03f9-482c-89d5-8d5a4322c857)
-
-
-
 ![carbon (7)](https://github.com/RAJharsh02/Honey-Bee-Pollen-detection/assets/118257196/7d1c202b-aa5c-4932-81f4-89bd2949704f)
 ## Accuracy score of different model
 ![Comparison Graph](https://github.com/RAJharsh02/Honey-Bee-Pollen-detection/assets/118257196/8f97fd05-c357-4011-acde-71f84aa0221c)
+
+![IMG_20230721_230859](https://github.com/RAJharsh02/Honey-Bee-Pollen-detection/assets/118257196/f3848493-03f9-482c-89d5-8d5a4322c857)
