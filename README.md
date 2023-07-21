@@ -26,3 +26,4 @@ Approach for this Project:The project aimed to predict wether a honey bee image 
 ## Accuracy score of different model
 ![Comparison Graph](https://github.com/RAJharsh02/Honey-Bee-Pollen-detection/assets/118257196/8f97fd05-c357-4011-acde-71f84aa0221c)
 
+![IMG_20230722_015404](https://github.com/RAJharsh02/Honey-Bee-Pollen-detection/assets/118257196/72f63d05-0b9e-49e1-96ec-12741f33aea2)
