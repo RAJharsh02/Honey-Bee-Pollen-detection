@@ -19,4 +19,4 @@ Approach for this Project:The project aimed to predict wether a honey bee image 
 
 ## Models:-
 ![carbon (5)](https://github.com/RAJharsh02/Honey-Bee-Pollen-detection/assets/118257196/69539477-742a-487b-948e-3f1a93f820a2)
-![carbon (6)](https://github.com/RAJharsh02/Honey-Bee-Pollen-detection/assets/118257196/a5bb43d2-56c5-4771-a2a0-1ce7fa53a6c0)
+
